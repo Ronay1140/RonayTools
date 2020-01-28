@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Ronay1140/RonayTools
+build-by-default: true
+branches:
+- master
+projects: []
+...
